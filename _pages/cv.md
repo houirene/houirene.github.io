@@ -4,7 +4,7 @@ title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_to: 
-  - {{ site.baseurl }}/files/Irene-Hou-CV.pdf
+  - /files/Irene-Hou-CV.pdf
 redirect_from:
   - /resume
 ---
