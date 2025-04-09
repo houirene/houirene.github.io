@@ -25,10 +25,10 @@ author:
   name             : "Irene Hou"
   pronouns         : # example: "she/her"  
   bio              : "Cognitive Science PhD student"
-  location         : "⠀San Diego, CA"
+  location         :   "  San Diego, CA"
   employer         : # 
-  uri              : # URL
-  email            : "ihou@ucsd.edu" 
+  url              : # URL
+  email            :  "   ihou@ucsd.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
