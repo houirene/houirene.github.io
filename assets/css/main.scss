@@ -10,7 +10,7 @@
  *
 */
 
-@import "vendor/breakpoint/breakpoint"; // media query mixins
+@import "vendor/breakpoint/breakpoint"; 
 @import "variables";
 @import "mixins";
 @import "vendor/susy/susy";
@@ -39,3 +39,75 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+#news {
+    padding-top: 0px;
+    margin-top: 10px;
+  }
+  
+  #news h2 {
+    font-size: 1.4em;
+    margin-bottom: 15px;
+  }
+  
+  #news ul {
+    list-style-type: none;
+    padding-left: 0;
+    font-size: 0.82em; 
+    line-height: 1.5;
+    color: #666; 
+    font-weight: 300;
+  }
+  
+  #news li {
+    display: flex;
+    align-items: flex-start;
+    margin-bottom: 12px;
+    opacity: 0;
+    animation: fadeInUp 0.5s ease forwards;
+    animation-delay: 0.2s;
+  }
+
+  @keyframes fadeInUp {
+    from {
+      opacity: 0;
+      transform: translateY(10px);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+  
+  #news li .news-date {
+    width: 120px;
+    font-weight: bold;
+    flex-shrink: 0;
+  }
+  
+  #news li .news-text {
+    flex-grow: 1;
+  }
+  
+  .news-scroll {
+    max-height: 12.0em; 
+    overflow-y: auto;
+    scrollbar-width: thin;
+    scrollbar-color: #ccc transparent;
+    padding-right: 4px;
+  }
+  
+  .news-scroll::-webkit-scrollbar {
+    width: 6px;
+  }
+  
+  .news-scroll::-webkit-scrollbar-track {
+    background: transparent;
+  }
+  
+  .news-scroll::-webkit-scrollbar-thumb {
+    background-color: #ccc;
+    border-radius: 3px;
+  }
+  
+  

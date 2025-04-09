@@ -14,4 +14,42 @@ Hello, I'm Irene! I'm a first-year [Cognitive Science](https://cogsci.ucsd.edu) 
 
 My research interests span Human-Computer Interaction, Human-Centered AI, and computing pedagogy. I study how generative AI systems in disciplines such as computing, science, and design can democratize learning and creativity. I'm particularly interested in computing for non-experts and participatory approaches to AI.
 
-Previously, I have been a Research Lead in Temple University's HCI Lab, advised by [Dr. Stephen MacNeil](https://stevemacn.github.io), and UX Lead at FluentPet in collaboration with the [Comparative Cognition Lab](https://cclab.ucsd.edu). I received my Bachelor of Science in Cognitive Science, Design and Interaction and minor in Computer Science from UCSD. Outside of my research, I'm a fiction writer/poet and was one of America's youngest authors at age 14!
+Previously, I was a Research Lead in Temple University's HCI Lab, advised by [Dr. Stephen MacNeil](https://stevemacn.github.io), and UX Lead at FluentPet in collaboration with the [Comparative Cognition Lab](https://cclab.ucsd.edu). I received my B.S. from UCSD in Cognitive Science (Design and Interaction) with a minor in Computer Science. Outside of my research, I'm a fiction writer/poet and was one of America's youngest authors at age 14.
+
+<section id="news">
+  <h2>news & updates</h2>
+  <div class="news-scroll">
+    <ul>
+      <li>
+        <div class="news-date">Apr 2025</div>
+        <div class="news-text">
+          Awarded the <a href="https://www.nsfgrfp.org/" target="_blank" rel="noopener noreferrer">2025 National Science Foundation Graduate Research Fellowship!</a> This year had a 6% acceptance rate compared to 2024's 15%, with only 1000 students awarded across the US.
+        </div>
+      </li>
+      <li>
+        <div class="news-date">Mar 2025</div>
+        <div class="news-text">
+          <i>"All Roads Lead to ChatGPT": The Social Impact of Generative AI and Erosion of Student Learning Communities</i> is accepted to ITiCSE 2025.
+        </div>
+      </li>
+      <li>
+        <div class="news-date">Mar 2025</div>
+        <div class="news-text">
+          Presented poster on <i>The Evolving Usage of GenAI by Computing Students</i> at SIGCSE 2025.
+        </div>
+      </li>
+      <li>
+        <div class="news-date">Feb 2025</div>
+        <div class="news-text">
+          Accepted visiting scholarship at <a href="https://aprilwang.me/" target="_blank" rel="noopener noreferrer">ETH Zurich's Peach Lab</a> with Professor April Wang for Summer 2025!
+        </div>
+      </li>
+      <li>
+        <div class="news-date">Sep 2024</div>
+        <div class="news-text">
+          Started my PhD in Cognitive Science at UC San Diego!
+        </div>
+      </li>
+    </ul>
+  </div>
+</section>
