@@ -7,10 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-about me
-======
 
-Hello, I'm Irene! I'm a first-year [Cognitive Science](https://cogsci.ucsd.edu) PhD student in [The Design Lab](https://designlab.ucsd.edu) at the [University of California, San Diego](https://ucsd.edu) (UCSD), where I am advised by [Dr. Philip Guo](https://pg.ucsd.edu).
+Hello, I'm Irene Hou! I'm a first-year [Cognitive Science](https://cogsci.ucsd.edu) PhD student in [The Design Lab](https://designlab.ucsd.edu) at the [University of California, San Diego](https://ucsd.edu) (UCSD), where I am advised by [Dr. Philip Guo](https://pg.ucsd.edu).
 
 My research interests span Human-Computer Interaction, Human-Centered AI, and computing pedagogy. I study how generative AI systems in disciplines such as computing, science, and design can democratize learning and creativity. I'm particularly interested in computing for non-experts and participatory approaches to AI.
 
