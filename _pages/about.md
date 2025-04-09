@@ -44,12 +44,6 @@ Previously, I was a Research Lead in Temple University's HCI Lab, advised by [Dr
           Accepted visiting scholarship at <a href="https://aprilwang.me/" target="_blank" rel="noopener noreferrer">ETH Zurich's Peach Lab</a> with Professor April Wang for Summer 2025!
         </div>
       </li>
-      <li>
-        <div class="news-date">Sep 2024</div>
-        <div class="news-text">
-          Started my PhD in Cognitive Science at UC San Diego!
-        </div>
-      </li>
     </ul>
   </div>
 </section>
