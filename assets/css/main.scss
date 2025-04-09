@@ -40,22 +40,40 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
+$link-color: #4b6eaf;
+$link-hover-color: lighten($link-color, 10%); // Slightly brighter on hover
+
+a {
+  color: $link-color;
+  text-decoration: none;
+
+  &:hover {
+    color: $link-hover-color;
+    text-decoration: underline;
+  }
+}
+
+.author__urls i {
+  color: #4b6eaf !important;
+}
+
+// Custom styles for the news section
 #news {
     padding-top: 0px;
     margin-top: 10px;
   }
   
   #news h2 {
-    font-size: 1.4em;
+    font-size: 1.5em;
     margin-bottom: 15px;
   }
   
   #news ul {
     list-style-type: none;
     padding-left: 0;
-    font-size: 0.82em; 
+    font-size: 0.85em; 
     line-height: 1.5;
-    color: #666; 
+    color: #15141A;
     font-weight: 300;
   }
   
@@ -94,7 +112,7 @@
     overflow-y: auto;
     scrollbar-width: thin;
     scrollbar-color: #ccc transparent;
-    padding-right: 4px;
+    padding-right: 10px;
   }
   
   .news-scroll::-webkit-scrollbar {
