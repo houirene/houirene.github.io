@@ -27,7 +27,7 @@ Previously, I was a Research Lead in Temple University's HCI Lab, advised by [Dr
       <li>
         <div class="news-date">Mar 2025</div>
         <div class="news-text">
-          <i>"All Roads Lead to ChatGPT": The Social Impact of Generative AI and Erosion of Student Learning Communities</i> is accepted to ITiCSE 2025.
+          <i><a href="https://www.researchgate.net/publication/390773068_All_Roads_Lead_to_ChatGPT_How_Generative_AI_is_Eroding_Social_Interactions_and_Student_Learning_Communities" target="_blank" rel="noopener noreferrer">"All Roads Lead to ChatGPT": The Social Impact of Generative AI and Erosion of Student Learning Communities</a></i> is accepted to ITiCSE 2025.
         </div>
       </li>
       <li>
