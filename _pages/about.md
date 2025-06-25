@@ -18,6 +18,12 @@ Previously, I was a Research Lead in Temple University's HCI Lab, advised by [Dr
   <h2>news & updates</h2>
   <div class="news-scroll">
     <ul>
+    <li>
+        <div class="news-date">May 2025</div>
+        <div class="news-text">
+           <i>"Value-Centered Framing Supports Inclusive Idea Convergence in Participatory Civic Design"</i> is accepted to <a href="https://ci.acm.org/2025/" target="_blank" rel="noopener noreferrer">CI '25!</a>
+        </div>
+      </li>
       <li>
         <div class="news-date">Apr 2025</div>
         <div class="news-text">
