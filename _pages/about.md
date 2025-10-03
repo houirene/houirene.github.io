@@ -8,11 +8,11 @@ redirect_from:
 ---
 
 
-Hello, I'm Irene Hou! I'm a first-year [Cognitive Science](https://cogsci.ucsd.edu) PhD student in [The Design Lab](https://designlab.ucsd.edu) at the [University of California, San Diego](https://ucsd.edu) (UCSD), where I am advised by [Dr. Philip Guo](https://pg.ucsd.edu).
+Hello, I'm Irene Hou! I'm a second-year [Cognitive Science](https://cogsci.ucsd.edu) PhD student in [The Design Lab](https://designlab.ucsd.edu) at the [University of California, San Diego](https://ucsd.edu) (UCSD), advised by [Dr. Philip Guo](https://pg.ucsd.edu). I am also a recipient of the 2025 National Science Foundation Graduate Research Fellowship (NSF GRFP).
 
 My research interests span Human-Computer Interaction, Human-Centered AI, and computing pedagogy. I study how generative AI systems in disciplines such as computing, science, and design can democratize learning and creativity. I'm particularly interested in computing for non-experts and participatory approaches to AI.
 
-Previously, I was a Research Lead in Temple University's HCI Lab, advised by [Dr. Stephen MacNeil](https://stevemacn.github.io), and UX Lead at FluentPet in collaboration with the [Comparative Cognition Lab](https://cclab.ucsd.edu). I received my B.S. from UCSD in Cognitive Science (Design and Interaction) with a minor in Computer Science. Outside of my research, I'm a fiction writer/poet and was one of America's youngest authors at age 14.
+In 2025, I was a visiting researcher at [ETH Zürich](https://ethz.ch/en.html) in [Dr. April Wang's](https://aprilwang.me/) PEACH lab. Before my PhD, I was a Research Lead in [Dr. Stephen MacNeil's ](https://stevemacn.github.io) HCI Lab, and UX Lead at FluentPet in collaboration with the [Comparative Cognition Lab](https://cclab.ucsd.edu). I received my B.S. from UCSD in Cognitive Science (Design and Interaction) with a minor in Computer Science. Outside of my research, I'm a fiction writer/poet and was one of America's youngest published authors at age 14.
 
 <section id="news">
   <h2>news & updates</h2>
