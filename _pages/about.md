@@ -24,7 +24,6 @@ In 2025, I was a visiting researcher at [ETH Zürich](https://ethz.ch/en.html) i
            <i>"Beyond the Desk: Barriers and Future Opportunities for AI to Assist Scientists in Embodied Physical Tasks"</i> is accepted to <a href="https://chi2026.acm.org/" target="_blank" rel="noopener noreferrer">CHI '26!</a>
         </div>
       </li>
-    <li>
      <li>
         <div class="news-date">Jan 2026</div>
         <div class="news-text">
