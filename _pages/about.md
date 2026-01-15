@@ -19,6 +19,19 @@ In 2025, I was a visiting researcher at [ETH Zürich](https://ethz.ch/en.html) i
   <div class="news-scroll">
     <ul>
     <li>
+        <div class="news-date">Jan 2026</div>
+        <div class="news-text">
+           <i>"Beyond the Desk: Barriers and Future Opportunities for AI to Assist Scientists in Embodied Physical Tasks"</i> is accepted to <a href="https://chi2026.acm.org/" target="_blank" rel="noopener noreferrer">CHI '26!</a>
+        </div>
+      </li>
+    <li>
+     <li>
+        <div class="news-date">Jan 2026</div>
+        <div class="news-text">
+           <i>""Bespoke Bots": Diverse Instructor Needs for Customizing Generative AI Classroom Chatbots"</i> is accepted to <a href="https://chi2026.acm.org/" target="_blank" rel="noopener noreferrer">CHI '26!</a>
+        </div>
+      </li>
+    <li>
         <div class="news-date">May 2025</div>
         <div class="news-text">
            <i>"Value-Centered Framing Supports Inclusive Idea Convergence in Participatory Civic Design"</i> is accepted to <a href="https://ci.acm.org/2025/" target="_blank" rel="noopener noreferrer">CI '25!</a>
