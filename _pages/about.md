@@ -8,9 +8,9 @@ redirect_from:
 ---
 
 
-Hello, I'm Irene Hou! I'm a second-year [Cognitive Science](https://cogsci.ucsd.edu) PhD student in [The Design Lab](https://designlab.ucsd.edu) at the [University of California, San Diego](https://ucsd.edu) (UCSD), advised by [Dr. Philip Guo](https://pg.ucsd.edu). I am also a recipient of the 2025 National Science Foundation Graduate Research Fellowship (NSF GRFP).
+Hi, I'm Irene Hou! I'm a second-year [Cognitive Science](https://cogsci.ucsd.edu) PhD student in the [Design Lab](https://designlab.ucsd.edu) at [UC San Diego](https://ucsd.edu), advised by [Dr. Philip Guo](https://pg.ucsd.edu). I am also a recipient of the 2025 National Science Foundation Graduate Research Fellowship (NSF GRFP).
 
-My research interests span Human–Computer Interaction, Human-Centered AI, and computing education. I study how AI systems are used in learning and scientific work, and how their design shapes social interaction, agency, and expertise. I am particularly interested in participatory approaches to AI that support non-experts and underrepresented users.
+My research interests span Human-Computer Interaction, Human-Centered AI, and computing education. I study how AI systems are used in learning and scientific work, and how their design shapes social interaction, agency, and expertise. I am particularly interested in participatory approaches to AI that support non-experts and underrepresented users.
 
 In 2025, I was a visiting researcher at [ETH Zürich](https://ethz.ch/en.html) in [Dr. April Wang's](https://aprilwang.me/) PEACH lab. Before my PhD, I was a Research Lead in [Dr. Stephen MacNeil's ](https://stevemacn.github.io) HCI Lab, and UX Lead at FluentPet in collaboration with the [Comparative Cognition Lab](https://cclab.ucsd.edu). I received my B.S. from UCSD in Cognitive Science (Design and Interaction) with a minor in Computer Science. Outside of my research, I'm a fiction writer/poet and was one of America's youngest published authors at age 14.
 
@@ -21,19 +21,19 @@ In 2025, I was a visiting researcher at [ETH Zürich](https://ethz.ch/en.html) i
     <li>
         <div class="news-date">Jan 2026</div>
         <div class="news-text">
-           <i>"Beyond the Desk: Barriers and Future Opportunities for AI to Assist Scientists in Embodied Physical Tasks"</i> is accepted to <a href="https://chi2026.acm.org/" target="_blank" rel="noopener noreferrer">CHI '26!</a>
+           <i>"Beyond the Desk: Barriers and Future Opportunities for AI to Assist Scientists in Embodied Physical Tasks"</i> is accepted to <a href="https://chi2026.acm.org/" target="_blank" rel="noopener noreferrer">CHI '26</a>!
         </div>
       </li>
      <li>
         <div class="news-date">Jan 2026</div>
         <div class="news-text">
-           <i>""Bespoke Bots": Diverse Instructor Needs for Customizing Generative AI Classroom Chatbots"</i> is accepted to <a href="https://chi2026.acm.org/" target="_blank" rel="noopener noreferrer">CHI '26!</a>
+           <i>"Bespoke Bots": Diverse Instructor Needs for Customizing Generative AI Classroom Chatbots"</i> is accepted to <a href="https://chi2026.acm.org/" target="_blank" rel="noopener noreferrer">CHI '26</a>!
         </div>
       </li>
     <li>
         <div class="news-date">May 2025</div>
         <div class="news-text">
-           <i>"Value-Centered Framing Supports Inclusive Idea Convergence in Participatory Civic Design"</i> is accepted to <a href="https://ci.acm.org/2025/" target="_blank" rel="noopener noreferrer">CI '25!</a>
+           <i>"Value-Centered Framing Supports Inclusive Idea Convergence in Participatory Civic Design"</i> is accepted to <a href="https://ci.acm.org/2025/" target="_blank" rel="noopener noreferrer">CI '25</a>.
         </div>
       </li>
       <li>
