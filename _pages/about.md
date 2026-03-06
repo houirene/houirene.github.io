@@ -27,7 +27,7 @@ In 2025, I was a visiting researcher at [ETH Zürich](https://ethz.ch/en.html) i
      <li>
         <div class="news-date">Jan 2026</div>
         <div class="news-text">
-           <i>"Bespoke Bots": Diverse Instructor Needs for Customizing Generative AI Classroom Chatbots"</i> is accepted to <a href="https://chi2026.acm.org/" target="_blank" rel="noopener noreferrer">CHI '26</a>!
+           <i><a href="https://arxiv.org/pdf/2603.00057" target="_blank" rel="noopener noreferrer">"Bespoke Bots": Diverse Instructor Needs for Customizing Generative AI Classroom Chatbots"</a></i> is accepted to <a href="https://chi2026.acm.org/" target="_blank" rel="noopener noreferrer">CHI '26</a>!
         </div>
       </li>
     <li>
