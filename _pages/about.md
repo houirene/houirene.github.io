@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-Hi, I'm Irene Hou! I'm a second-year [Cognitive Science](https://cogsci.ucsd.edu) PhD student in the [Design Lab](https://designlab.ucsd.edu) at [UC San Diego](https://ucsd.edu), advised by [Dr. Philip Guo](https://pg.ucsd.edu). I am also a recipient of 2026 Paul and Daisy Soros New American Fellowship and the 2025 National Science Foundation Graduate Research Fellowship (NSF GRFP).
+Hi, I'm Irene Hou! I'm a second-year [Cognitive Science](https://cogsci.ucsd.edu) PhD student in the [Design Lab](https://designlab.ucsd.edu) at [UC San Diego](https://ucsd.edu), advised by [Philip Guo](https://pg.ucsd.edu). I am also a recipient of 2026 Paul and Daisy Soros New American Fellowship and the 2025 National Science Foundation Graduate Research Fellowship.
 
 My research interests span Human-Computer Interaction, Human-Centered AI, and computing education. I study how AI systems are used in learning and scientific work, and how their design shapes social interaction, agency, and expertise. I am particularly interested in participatory approaches to AI that support non-experts and underrepresented users.
 
