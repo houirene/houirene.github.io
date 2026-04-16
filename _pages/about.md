@@ -21,10 +21,9 @@ In 2025, I was a visiting researcher at [ETH Zürich](https://ethz.ch/en.html) i
     <li>
         <div class="news-date">Apr 2026</div>
         <div class="news-text">
-           Awarded the <a href="https://pdsoros.org/meet-the-class-of-2026/" target="_blank" rel="noopener noreferrer">2026 Paul & Daisy Soros New American Fellowship!</a> 2026 was the most competitive year on record, with a <\1% selection rate of 30 recipients nationwide.
+           Awarded the <a href="https://pdsoros.org/meet-the-class-of-2026/" target="_blank" rel="noopener noreferrer">2026 Paul & Daisy Soros New American Fellowship!</a> 2026 was the most competitive year on record, with a 1% selection rate of 30 recipients nationwide.
         </div>
       </li>
-    <li>
     <li>
         <div class="news-date">Jan 2026</div>
         <div class="news-text">
