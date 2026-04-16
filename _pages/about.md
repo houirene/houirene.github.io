@@ -19,6 +19,13 @@ In 2025, I was a visiting researcher at [ETH Zürich](https://ethz.ch/en.html) i
   <div class="news-scroll">
     <ul>
     <li>
+        <div class="news-date">Apr 2026</div>
+        <div class="news-text">
+           Awarded the <a href="https://pdsoros.org/meet-the-class-of-2026/" target="_blank" rel="noopener noreferrer">2026 Paul & Daisy Soros New American Fellowship!</a> 2026 was the most competitive year on record, with a <\1% selection rate of 30 recipients nationwide.
+        </div>
+      </li>
+    <li>
+    <li>
         <div class="news-date">Jan 2026</div>
         <div class="news-text">
            <i><a href="https://arxiv.org/pdf/2603.19504" target="_blank" rel = "noopener noreferrer">"Beyond the Desk: Barriers and Future Opportunities for AI to Assist Scientists in Embodied Physical Tasks"</a></i> is accepted to <a href="https://chi2026.acm.org/" target="_blank" rel="noopener noreferrer">CHI '26</a>!
