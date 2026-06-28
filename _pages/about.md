@@ -10,7 +10,7 @@ redirect_from:
 
 Hi, I'm Irene Hou! I'm a second-year [Cognitive Science](https://cogsci.ucsd.edu) PhD student in the [Design Lab](https://designlab.ucsd.edu) at [UC San Diego](https://ucsd.edu), advised by [Philip Guo](https://pg.ucsd.edu). I am also a recipient of <a href="https://pdsoros.org/meet-the-class-of-2026/" target="_blank" rel="noopener noreferrer">2026 Paul and Daisy Soros New American Fellowship</a> and the 2025 National Science Foundation Graduate Research Fellowship.
 
-My research interests span Human-Computer Interaction, Human-Centered AI, and computing education. I study how AI systems are used in learning and scientific work, and how their design shapes social interaction, agency, and expertise. I am particularly interested in participatory approaches to AI that support non-experts and underrepresented users.
+My research interests span Human-Centered AI, Human-Computer Interaction, and computing education. I study how generative AI reshapes peer learning, help-seeking, and tacit knowledge transfer in technical and scientific communities. I am particularly interested in participatory approaches to AI that support non-experts and underrepresented users.
 
 In 2025, I was a visiting researcher at [ETH Zürich](https://ethz.ch/en.html) in [Dr. April Wang's](https://aprilwang.me/) PEACH lab. Before my PhD, I was a Research Lead in [Dr. Stephen MacNeil's](https://stevemacn.github.io) HCI Lab, and UX Lead at FluentPet in collaboration with the [Comparative Cognition Lab](https://cclab.ucsd.edu). I received my B.S. from UCSD in Cognitive Science (Design and Interaction) with a minor in Computer Science. Outside of my research, I'm a fiction writer/poet and was one of America's youngest published authors at age 14.
 
@@ -18,6 +18,13 @@ In 2025, I was a visiting researcher at [ETH Zürich](https://ethz.ch/en.html) i
   <h2>news & updates</h2>
   <div class="news-scroll">
     <ul>
+       <li>
+        <div class="news-date">Jun 2026</div>
+        <div class="news-text">
+            Returning to <a href="https://aprilwang.me/" target="_blank" rel="noopener noreferrer">ETH Zurich's Peach Lab</a> with Professor April Wang for Summer 2026!
+        </div>
+      </li>
+     <li>
     <li>
         <div class="news-date">Apr 2026</div>
         <div class="news-text">
