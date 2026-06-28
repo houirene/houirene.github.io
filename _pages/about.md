@@ -24,7 +24,6 @@ In 2025, I was a visiting researcher at [ETH Zürich](https://ethz.ch/en.html) i
             Returning to <a href="https://aprilwang.me/" target="_blank" rel="noopener noreferrer">ETH Zurich's Peach Lab</a> with Professor April Wang for Summer 2026!
         </div>
       </li>
-     <li>
     <li>
         <div class="news-date">Apr 2026</div>
         <div class="news-text">
