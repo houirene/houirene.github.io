@@ -8,11 +8,11 @@ redirect_from:
 ---
 
 
-Hi, I'm Irene Hou! I'm a third-year [Cognitive Science](https://cogsci.ucsd.edu) PhD student in the [Design Lab](https://designlab.ucsd.edu) at [UC San Diego](https://ucsd.edu), advised by [Philip Guo](https://pg.ucsd.edu). I'm also a <a href="https://pdsoros.org/meet-the-class-of-2026/" target="_blank" rel="noopener noreferrer">2026 Paul and Daisy Soros New American Fellow </a> and 2025 National Science Foundation Graduate Research Fellow.
+Hi, I'm Irene Hou! I'm a third-year [Cognitive Science](https://cogsci.ucsd.edu) PhD student in the [Design Lab](https://designlab.ucsd.edu) at [UC San Diego](https://ucsd.edu), advised by [Philip Guo](https://pg.ucsd.edu) and [April Wang](https://aprilwang.me/). I'm also a <a href="https://pdsoros.org/meet-the-class-of-2026/" target="_blank" rel="noopener noreferrer">2026 Paul and Daisy Soros New American Fellow </a> and 2025 National Science Foundation Graduate Research Fellow.
 
 My research spans Human-Centered AI, Human-Computer Interaction, and computing education. I study how generative AI impacts the ways people build tacit knowledge and expertise, whether through hands-on practice (like [lab scientists](https://dl.acm.org/doi/full/10.1145/3772318.3791093)) or learning communities (like [computing students](https://dl.acm.org/doi/10.1145/3724363.3729024)). I often draw on qualitative and participatory AI approaches.
 
-I've been a visiting researcher at [ETH Zürich](https://ethz.ch/en.html) in [April Wang's](https://aprilwang.me/) PEACH lab (2025, 2026). Before my PhD, I was a Research Lead in [Stephen MacNeil's](https://stevemacn.github.io) HCI Lab and UX Lead at FluentPet in collaboration with the [Comparative Cognition Lab](https://cclab.ucsd.edu). Outside of research, I write fiction/poetry and was one of America's youngest published authors at 14.
+I'm also a visiting researcher at [ETH Zürich](https://ethz.ch/en.html) in [April Wang's](https://aprilwang.me/) PEACH lab (2025, 2026). Before my PhD, I was a Research Lead in [Stephen MacNeil's](https://stevemacn.github.io) HCI Lab and UX Lead at FluentPet in collaboration with the [Comparative Cognition Lab](https://cclab.ucsd.edu). Outside of research, I write fiction/poetry and was one of America's youngest published authors at 14.
 
 <section id="news">
   <h2>news & updates</h2>
