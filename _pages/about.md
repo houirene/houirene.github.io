@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-Hi, I'm Irene Hou! I'm a third-year [Cognitive Science](https://cogsci.ucsd.edu) PhD student in the [Design Lab](https://designlab.ucsd.edu) at [UC San Diego](https://ucsd.edu), advised by [Philip Guo](https://pg.ucsd.edu) and [April Wang](https://aprilwang.me/) at [ETH Zürich](https://ethz.ch/en.html). I'm also a <a href="https://pdsoros.org/meet-the-class-of-2026/" target="_blank" rel="noopener noreferrer">2026 Paul and Daisy Soros New American Fellow </a> and 2025 National Science Foundation Graduate Research Fellow.
+Hi, I'm Irene Hou! I'm a third-year [Cognitive Science](https://cogsci.ucsd.edu) PhD student in the [Design Lab](https://designlab.ucsd.edu) at UC San Diego, advised by [Philip Guo](https://pg.ucsd.edu) and co-advised by [April Wang](https://aprilwang.me/) at ETH Zürich. I'm also a <a href="https://pdsoros.org/meet-the-class-of-2026/" target="_blank" rel="noopener noreferrer">2026 Paul and Daisy Soros New American Fellow </a> and 2025 National Science Foundation Graduate Research Fellow.
 
 My research spans Human-Centered AI, Human-Computer Interaction, and computing education. I study how generative AI impacts the ways people build tacit knowledge and expertise, whether through hands-on practice (like [lab scientists](https://dl.acm.org/doi/full/10.1145/3772318.3791093)) or learning communities (like [computing students](https://dl.acm.org/doi/10.1145/3724363.3729024)). I often draw on qualitative and participatory AI approaches.
 
